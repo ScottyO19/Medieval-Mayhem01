@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\Version3.6\Version3.6\Intermediate\Build\Win64\UE4Editor\Development\Medieval_Mayhem1\Definitions.Medieval_Mayhem1.h
+C:\Users\Admin\Desktop\Version3.6\Version3.6\Source\Medieval_Mayhem1\MyClass.h

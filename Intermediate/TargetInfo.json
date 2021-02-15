@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Medieval_Mayhem1",
+			"Path": "C:\\Users\\Admin\\Desktop\\Version3.8 Test\\Source\\Medieval_Mayhem1.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Medieval_Mayhem1Editor",
+			"Path": "C:\\Users\\Admin\\Desktop\\Version3.8 Test\\Source\\Medieval_Mayhem1Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

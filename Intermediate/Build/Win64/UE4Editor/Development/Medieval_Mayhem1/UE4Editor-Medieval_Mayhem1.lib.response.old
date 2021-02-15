@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Medieval_Mayhem1.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Admin\Desktop\Newsest capstone version\Intermediate\Build\Win64\Medieval_Mayhem1Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Admin\Desktop\Newsest capstone version\Intermediate\Build\Win64\UE4Editor\Development\Medieval_Mayhem1\Medieval_Mayhem1.cpp.obj"
+"C:\Users\Admin\Desktop\Newsest capstone version\Intermediate\Build\Win64\UE4Editor\Development\Medieval_Mayhem1\MyClass.cpp.obj"
+"C:\Users\Admin\Desktop\Newsest capstone version\Intermediate\Build\Win64\UE4Editor\Development\Medieval_Mayhem1\Default.rc2.res"
+/OUT:"C:\Users\Admin\Desktop\Newsest capstone version\Intermediate\Build\Win64\UE4Editor\Development\Medieval_Mayhem1\UE4Editor-Medieval_Mayhem1.lib"
+/INCLUDE:IMPLEMENT_MODULE_Medieval_Mayhem1

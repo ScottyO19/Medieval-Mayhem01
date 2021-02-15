@@ -1,0 +1,2 @@
+C:\Users\Admin\Desktop\All for Capstone\Version10\Intermediate\Build\Win64\UE4\Development\Medieval_Mayhem1\Definitions.Medieval_Mayhem1.h
+C:\Users\Admin\Desktop\All for Capstone\Version10\Source\Medieval_Mayhem1\Medieval_Mayhem1.h
